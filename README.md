@@ -4,6 +4,9 @@ In case of questions feel free to reach out at through: kovacsm@student.ethz.ch 
 
 # Python script structure:
 Specify units to process in main.py, optionally adjust name structure of files in batch.py (process units function). 
+
+For line/spiral inductors, plate capacitors the main script is used. 
+For bias tees the bias_tee_design.py script is used.
 ![Python Scripts Structure](https://github.com/user-attachments/assets/7b733835-3a94-4f94-b0fc-189414a68426)
 
 # Resources
