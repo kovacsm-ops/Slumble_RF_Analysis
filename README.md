@@ -1,6 +1,8 @@
 # Slumble_RF_Analysis
-Contains all the scripts and files used for the bachelor thesis
+Contains all the scripts and files used for my bachelor thesis in 2025FS.
+In case of questions feel free to reach out at through: kovacsm@student.ethz.ch .
 
+# Resources
 I found these sources useful during the thesis:
 LT SPICE:
 https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html
