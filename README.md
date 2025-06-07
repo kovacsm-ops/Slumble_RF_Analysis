@@ -4,6 +4,7 @@ In case of questions feel free to reach out at through: kovacsm@student.ethz.ch 
 
 # Resources
 I found these sources useful during the thesis:
+
 LT SPICE:
 https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html
 
