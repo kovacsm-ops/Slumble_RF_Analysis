@@ -2,11 +2,16 @@
 Contains all the scripts and files used for my bachelor thesis in 2025FS.
 In case of questions feel free to reach out at through: kovacsm@student.ethz.ch .
 
+# Python script structure:
+Specify units to process in main.py, optionally adjust name structure of files in batch.py (process units function). 
+![Python Scripts Structure](https://github.com/user-attachments/assets/7b733835-3a94-4f94-b0fc-189414a68426)
+
 # Resources
 I found these sources useful during the thesis:
 
 LT SPICE:
 https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html
+
 
 COMSOL:
 - Meshing:
